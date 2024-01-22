@@ -1,0 +1,29 @@
+body{
+  padding: 20px;
+  background-color: #444;
+  filter: invert();
+}
+
+button{
+  margin-right: 10px;
+}
+
+nav{
+  display: flex;
+  justify-content: space-between;
+}
+
+ul{
+  display: flex;
+  align-items: center;
+  margin: 0;
+  gap: 10px
+}
+
+li{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+}
